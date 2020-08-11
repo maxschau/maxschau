@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Max 👋
 
-[![Max' github stats](https://github-readme-stats.vercel.app/api?username=maxschau)](https://github.com/anuraghazra/github-readme-stats)
+[![Max' github stats](https://github-readme-stats.vercel.app/api?username=maxschau&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
