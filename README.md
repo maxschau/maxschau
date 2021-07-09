@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=maxschau)
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A CS-student passionated about development</h3>
+<h3 align="center">CS-student</h3>
 
 <hr />
 <h1 align="center">Social </h1>
