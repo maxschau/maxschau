@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">CS-student</h3>
+<h3 align="center">CS-student and technologist at <a href="https://github.com/blankoslo" target="_blank">Blank</a></h3>
